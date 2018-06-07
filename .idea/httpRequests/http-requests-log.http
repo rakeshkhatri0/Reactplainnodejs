@@ -1,0 +1,20 @@
+POST http://localhost:8000/add/food
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "foodName":"chaumin",   "qty":"2" }
+
+<> 2018-05-17T113616.200.json
+
+###
+
+POST http://localhost:8000/add/food
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "foodName":"chaumin",   "qty":"2" }
+
+###
+
